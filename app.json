@@ -13,7 +13,7 @@
     "success_url": "/",
     "env": {
         "TG_BOT_TOKEN": {
-            "description": "6134605538:AAGfiGLBc_tobvBXcYQdweTNz2CJyP1q7lU'
+            "description": "6134605538:AAGfiGLBc_tobvBXcYQdweTNz2CJyP1q7lU"
         },"BOT_NAME": {
             "description": "Hue pue"
         },
