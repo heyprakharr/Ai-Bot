@@ -13,12 +13,12 @@
     "success_url": "/",
     "env": {
         "TG_BOT_TOKEN": {
-            "description": "your Telegram Bot Token, from @BotFather"
+            "description": "6134605538:AAGfiGLBc_tobvBXcYQdweTNz2CJyP1q7lU'
         },"BOT_NAME": {
-            "description": "your Telegram Bot Name"
+            "description": "Hue pue"
         },
         "BOT_USERNAME": {
-            "description": "Your telegram bot username"
+            "description": "Huepuebot"
         }
     },
     "formation": {
